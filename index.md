@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 # Mrigna's First CS193 Homework
 ### Bulleted list of what i like CS193
 - Its so much funn!!
-- Going good so far
+- Going good so far 
 
 
 ### Markdown
