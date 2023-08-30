@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 # Mrigna's First CS193 Homework
-### Bulleted list
+### Bulleted List
 - Its so much funn
 - Going good so far 
 
